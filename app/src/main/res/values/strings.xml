@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="til">Titulo</string>
+    <string name="aut">Autor</string>
+</resources>
